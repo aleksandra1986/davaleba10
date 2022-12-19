@@ -23,8 +23,11 @@
     width: 100vw; 
      height: 100vh;
     color: aliceblue;
+    font-size: 40px;
+    
     /* border: 5px solid green; */
     text-align:center;
+    
    
     
     display: -ms-grid;
@@ -55,6 +58,7 @@ header{
         grid-column-start: 1;
     -ms-grid-column-span: 1;
     grid-column-end: 2;
+    
    
   
     
